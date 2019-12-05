@@ -4,7 +4,7 @@ Hello!
 
 My name is Rodrigo Imenes and i am a Fullstack Developer!
 
-Currently working for [Alterdata Software](https://www.alterdata.com.br/) as a Senior Fullstack Developer, working with:
+Currently working at [Alterdata Software](https://www.alterdata.com.br/) as a Senior Fullstack Developer, working with:
 
 - NodeJs
 - ReactJs
