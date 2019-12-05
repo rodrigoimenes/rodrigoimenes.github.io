@@ -13,7 +13,7 @@ Currently working at [Alterdata Software](https://www.alterdata.com.br/) as a Se
 - AngularJs
 - HTML, CSS, Javascript
 
-Using too:
+Some infra tech's:
 
 - Docker
 - GIT (GitFlow)
