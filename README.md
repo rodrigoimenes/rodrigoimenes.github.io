@@ -13,14 +13,38 @@ Currently working for [Alterdata Software](https://www.alterdata.com.br/) as a S
 - AngularJs
 - HTML, CSS, Javascript
 
-In my free time, I am a person who likes to spend time with my wife and my daughter. In my free time I enjoy reading about technology and playing online games.
+Using too:
 
-Actually im living in Teresópolis-RJ (Brazil)!
+- Docker
+- GIT (GitFlow)
+- Subversion (SVN)
+- AWS (Elastic Beanstalk, Elastic Cache, RDS)
+- Pusher & PubSub Tools
+- Rancher/Openshift
 
+With some interpersonal skills:
+
+- Agile Methods
+- TDD
+- I make friends quickly; Good coexistence
+- With some time, act as a Team Leader, taking responsabilities e enjoy sharing knownledges.
+
+Currently my languages:
+
+- Brazilian Portuguese (Native)
+- US English (Advanced)
+
+## About me
 
 ```markdown
 "Everything you've ever wanted is on the other side of fear" - George Addair
 ```
+
+As a professional I like to solve challenges, I think they are the main fuel to be always growing in the career. Complex logic solutions are motivating never to give up. I like to talk a lot about the best way to execute routines to always be learning how to be a better programmer.
+During my professional years (7+), I found that much more than just getting better at programming, I need to get better as a person.
+In my free time, I am a person who likes to spend time with my wife and my daughter, read about technology and playing online games.
+
+Actually im living in Teresópolis-RJ (Brazil)!
 
 ### Contact
 
