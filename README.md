@@ -24,7 +24,7 @@ Actually im living in Teresópolis-RJ (Brazil)!
 
 ### Contact
 
-Email: rodrigoimenes@hotmail.com
-[Linkedin](https://www.linkedin.com/in/rodrigoimenes)
-[Github](https://github.com/rodrigoimenes)
-[HackerRank](https://www.hackerrank.com/rodrigoimenes)
+- Email: rodrigoimenes@hotmail.com
+- [Linkedin](https://www.linkedin.com/in/rodrigoimenes)
+- [Github](https://github.com/rodrigoimenes)
+- [HackerRank](https://www.hackerrank.com/rodrigoimenes)
