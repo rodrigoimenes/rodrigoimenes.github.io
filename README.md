@@ -27,7 +27,7 @@ With some interpersonal skills:
 - Agile Methods
 - TDD
 - I make friends quickly; Good coexistence
-- With some time, act as a Team Leader, taking responsabilities e enjoy sharing knownledges.
+- With some time, act as a Team Leader, taking responsabilities and enjoy sharing knownledges.
 
 Currently my languages:
 
