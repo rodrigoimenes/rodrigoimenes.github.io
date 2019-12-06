@@ -44,7 +44,7 @@ As a professional I like to solve challenges, I think they are the main fuel to 
 During my professional years (7+), I found out that much more than just getting better at programming, I need to improve as a person.
 In my free time, I am a person who likes to spend time with my wife and my daughter, read about technology and playing online games.
 
-Actually im living in Teresópolis-RJ (Brazil)!
+I'm actually living in Teresópolis-RJ (Brazil)!
 
 ### Contact
 
