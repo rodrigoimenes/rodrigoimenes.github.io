@@ -2,7 +2,7 @@
 
 Hello!
 
-My name is Rodrigo Imenes and i am a Fullstack Developer!
+My name is Rodrigo Imenes and I am a Fullstack Developer!
 
 Currently working at [Alterdata Software](https://www.alterdata.com.br/) as a Senior Fullstack Developer, working with:
 
@@ -13,7 +13,7 @@ Currently working at [Alterdata Software](https://www.alterdata.com.br/) as a Se
 - AngularJs
 - HTML, CSS, Javascript
 
-Some infra tech's:
+Some infra techs:
 
 - Docker
 - GIT (GitFlow)
@@ -22,7 +22,7 @@ Some infra tech's:
 - Pusher & PubSub Tools
 - Rancher/Openshift
 
-With some interpersonal skills:
+Interpersonal skills:
 
 - Agile Methods
 - TDD
