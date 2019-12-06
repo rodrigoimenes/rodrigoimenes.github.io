@@ -40,9 +40,9 @@ Currently my languages:
 "Everything you've ever wanted is on the other side of fear" - George Addair
 ```
 
-As a professional I like to solve challenges, I think they are the main fuel to be always growing in the career. Complex logic solutions are motivating to never give up. I like to talk a lot about the best way to execute routines to always be learning how to be a better programmer.
-During my professional years (7+), I found out that much more than just getting better at programming, I need to improve as a person.
-In my free time, I am a person who likes to spend time with my wife and my daughter, read about technology and playing online games.
+As a professional I like to solve challenges. I think the main fuel to be constantly improving my career. Complex logical solutions are my motivation to never give up. I like to discuss about the best way to execute routines so i can always be developing myself aiming to become a better programmer.
+During my professional years (7+), I've found out that it's imperative to improve as a person in order to become a better programmer.
+In my free time, I am a person who likes to spend time with my wife and my daughter, read about technology and play online games.
 
 I'm actually living in Teresópolis-RJ (Brazil)!
 
