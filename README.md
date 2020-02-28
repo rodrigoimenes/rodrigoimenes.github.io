@@ -4,10 +4,12 @@ Hello!
 
 My name is Rodrigo Imenes and I am a Fullstack Developer!
 
-Currently working at [Alterdata Software](https://www.alterdata.com.br/) as a Senior Fullstack Developer, working with:
+Currently working at [Indeva](https://www.indeva.com.br/) as a Software Engineer.
+
+My stacks:
 
 - NodeJs
-- ReactJs
+- ReactJs and React Native
 - Python
 - Typescript
 - AngularJs
@@ -22,7 +24,7 @@ Some infra techs:
 - Pusher & PubSub Tools
 - Rancher/Openshift
 
-Interpersonal skills:
+Another skills:
 
 - Agile Methods
 - TDD
