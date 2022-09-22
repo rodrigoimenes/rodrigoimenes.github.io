@@ -4,7 +4,7 @@ Hello!
 
 My name is Rodrigo Imenes and I am a Fullstack Developer!
 
-Currently working at [Indeva](https://www.indeva.com.br/) as a Software Engineer.
+Currently working at [Afya](https://www.afya.com.br/) as a Software Engineer.
 
 My stacks:
 
@@ -12,6 +12,7 @@ My stacks:
 - ReactJs and React Native
 - Python
 - Typescript
+- Ruby on Rails
 - AngularJs
 - HTML, CSS, Javascript
 
@@ -19,8 +20,7 @@ Some infra techs:
 
 - Docker
 - GIT (GitFlow)
-- Subversion (SVN)
-- AWS (Elastic Beanstalk, Elastic Cache, RDS)
+- AWS (Elastic Beanstalk, Elastic Cache, RDS, S3, etc..)
 - Pusher & PubSub Tools
 - Rancher/Openshift
 
@@ -43,7 +43,7 @@ Currently my languages:
 ```
 
 As a professional I like to solve challenges. I think the main fuel to be constantly improving my career. Complex logical solutions are my motivation to never give up. I like to discuss about the best way to execute routines so i can always be developing myself aiming to become a better programmer.
-During my professional years (7+), I've found out that it's imperative to improve as a person in order to become a better programmer.
+During my professional years (10+), I've found out that it's imperative to improve as a person in order to become a better programmer.
 In my free time, I am a person who likes to spend time with my wife and my daughter, read about technology and play online games.
 
 I'm actually living in Teresópolis-RJ (Brazil)!
